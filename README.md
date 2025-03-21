@@ -1,5 +1,3 @@
-
-
 ![image](https://github.com/user-attachments/assets/278c68a0-d274-4dba-ba40-dc1bf7d1cc29)
 
 ###
@@ -16,7 +14,16 @@
 
 ###
 
-<p align="left">👀 I’m a Data Scientist with a strong interest in AI and Data Engineering<br>🎓 I’m currently completing a specialized Master’s in Big Data at Télécom Paris<br>🌍 Originally from Tunisia, currently based in Paris, France<br>🌱 Currently learning: I'm currently deepening my expertise in scalable data pipelines, cloud infrastructure, data modeling, and MLOps to support robust and efficient AI systems.<br>🎯 Goals: My goal is to become a hybrid AI/Data Engineer capable of building and deploying end-to-end AI solutions for impactful real-world applications.</p>
+<p align="left">
+👀 I’m a Data Scientist with a strong interest in AI and Data Engineering<br>
+🎓 I’m currently completing a specialized Master’s in Big Data at Télécom Paris<br>
+🌍 Originally from Tunisia, currently based in Paris, France<br>
+🌱 Currently learning: I'm currently deepening my expertise in scalable data pipelines, cloud infrastructure, data modeling, and MLOps to support robust and efficient AI systems.<br>
+🎯 Goals: My goal is to become a hybrid AI/Data Engineer capable of building and deploying end-to-end AI solutions for impactful real-world applications.<br><br>
+
+📫 <strong>Contact:</strong> aymenouhiba@gmail.com<br>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aymenouhiba/" target="_blank">Aymen Ouhiba</a>
+</p>
 
 ###
 
