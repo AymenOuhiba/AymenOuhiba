@@ -31,7 +31,9 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Personal Projects
+
+> 💡 These are selected highlights — check out my [repositories](https://github.com/AymenOuhiba?tab=repositories) for more!
 
 | | Project | Stack |
 |---|---|---|
