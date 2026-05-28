@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:aymenouhiba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aymenouhiba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aymenouhiba.github.io./"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -19,15 +20,29 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-🎓 Graduated from a <strong>MSc in Big Data at Télécom Paris</strong><br>
+🎓 Graduated from a <strong>MSc Expert Data & MLOps at Télécom Paris</strong> (Institut Polytechnique de Paris)<br>
 🌍 Originally from Tunisia, currently based in Paris, France<br>
-🔭 My recent work spans <strong>LLM-powered narrative systems</strong>, <strong>multimodal emotion analysis</strong>, and <strong>production-grade data pipelines</strong> in FinTech<br>
-🌱 Continuously deepening my expertise in <strong>scalable data pipelines</strong>, <strong>cloud infrastructure</strong>, <strong>LLMOps</strong>, and <strong>MLOps</strong><br>
+🔭 My recent work spans <strong>LLM-powered narrative systems</strong>, <strong>RAG pipelines on Azure</strong>, <strong>multimodal emotion analysis</strong>, and <strong>production-grade data pipelines</strong> in FinTech<br>
+🌱 Continuously deepening my expertise in <strong>agentic AI (LangGraph, MCP)</strong>, <strong>cloud infrastructure</strong>, <strong>LLMOps</strong>, and <strong>MLOps</strong><br>
 🎯 My goal: build and deploy <strong>end-to-end AI solutions</strong> that solve real-world problems at scale<br>
-💼 Actively looking for <strong>AI Engineer · Data Engineer · MLOps</strong> roles — CDI, CDD or Freelance · France & EU<br><br>
+💼 Actively looking for <strong>AI Engineer · Data Engineer · MLOps</strong> roles — CDI · France & EU<br><br>
 📫 <strong>Contact:</strong> aymenouhiba@gmail.com<br>
-🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aymenouhiba/">Aymen Ouhiba</a>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aymenouhiba/">Aymen Ouhiba</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://aymenouhiba.github.io./">aymenouhiba.github.io</a>
 </p>
+
+---
+
+## 💼 Experience Highlights
+
+| Period | Company | Role | Key Focus |
+|---|---|---|---|
+| 2025 – 2026 | **ALTEN** (Sophia Antipolis) | R&D AI Engineer | LLM narrative system · RAG · MCP · Azure OpenAI |
+| 2025 | **SAEGUS** (Paris) | AI Engineer | Multimodal emotion analysis · Databricks · CamemBERT |
+| 2023 – 2024 | **VERMEG** (Tunis) | Junior Data Engineer | ETL/ELT · Snowflake · Airflow · PySpark · Power BI |
+| 2023 | **SATORIPOP** (Sousse) | Junior Data Science Consultant | NLP · BERT/RoBERTa · Tunisian dialect · Carrefour |
+| 2020 – 2022 | **AXE FINANCE** (Tunis) | Data Scientist (Apprenticeship) | Credit risk · OCR · SHAP/LIME · NLP |
+| 2020 | **ENOVA ROBOTICS** (Sousse) | Computer Vision R&D Engineer | Fire detection · Transfer learning · InceptionV3 |
 
 ---
 
@@ -43,6 +58,15 @@
 | 🧠 | [**Grad-ECLIP**](https://github.com/AymenOuhiba/Grad-ECLIP-Explainable-CLIP-via-Gradient-based-Attention-Analysis) — Explainability research on vision-language models | CLIP · PyTorch · ViT · ImageNet |
 | 🎙️ | [**Assembl-IA**](https://github.com/CIS31/Assembl-IA) — Multimodal emotion analysis on French National Assembly debates | YOLOv8n-face · CamemBERT · Librosa · Databricks |
 | ⚙️ | [**MLOps Project**](https://github.com/AymenOuhiba/Projet-MLOps) — ML pipeline with experiment tracking & CI/CD | MLflow · Docker · GitHub Actions |
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate%20(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Agentic%20AI-FF6F00?style=for-the-badge&logo=deeplearningdotai&logoColor=white"/>
+</p>
 
 ---
 
@@ -64,10 +88,26 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=graphql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Cloud & AI Azure**
+
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Studio](https://img.shields.io/badge/Azure%20AI%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**RAG & Agentic AI**
+
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6C3483?style=flat-square&logo=graphql&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-00B4D8?style=flat-square&logo=pinecone&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Data Engineering**
 
@@ -77,33 +117,26 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-**DevOps · Cloud · MLOps**
+**DevOps · MLOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Frameworks · Tools**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
