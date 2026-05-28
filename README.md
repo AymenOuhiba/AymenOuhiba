@@ -21,6 +21,7 @@
 
 <p align="left">
 🎓 Graduated from a <strong>MSc Expert Data & MLOps at Télécom Paris</strong> (Institut Polytechnique de Paris)<br>
+⏱️ <strong>3+ years of experience</strong> in AI Engineering and Data Engineering across France and Tunisia<br>
 🌍 Originally from Tunisia, currently based in Paris, France<br>
 🔭 My recent work spans <strong>LLM-powered narrative systems</strong>, <strong>RAG pipelines on Azure</strong>, <strong>multimodal emotion analysis</strong>, and <strong>production-grade data pipelines</strong> in FinTech<br>
 🌱 Continuously deepening my expertise in <strong>agentic AI (LangGraph, MCP)</strong>, <strong>cloud infrastructure</strong>, <strong>LLMOps</strong>, and <strong>MLOps</strong><br>
@@ -73,8 +74,13 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AymenOuhiba&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenOuhiba&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AymenOuhiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aymen's GitHub stats"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenOuhiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenOuhiba&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
